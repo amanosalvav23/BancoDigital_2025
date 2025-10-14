@@ -1,5 +1,4 @@
-## Proyecto Big Data – Gestión de Datos Bancarios con Python, MongoDB
-y GitHub
+## Proyecto Big Data – Gestión de Datos Bancarios con Python, MongoDB y GitHub
 ## Descripción General
 Este proyecto tiene como objetivo enseñar a los estudiantes los conceptos
 fundamentales de Big Data, integrando herramientas modernas de
@@ -70,4 +69,4 @@ git push origin main
 Proyecto desarrollado aplicando conceptos de Big Data, Python y bases
 de datos NoSQL.
 ALDAIR MANOSALVA VASQUEZ
-Fecha: 14.10.2025
+Fecha: 15.10.2025
